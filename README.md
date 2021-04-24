@@ -27,7 +27,7 @@ This is a tutorial-based Repo so there not anything that can be used in the proj
 **Rohit Jain**
 
 - [Profile](https://github.com/rohit19060 "Rohit jain")
-- [Email](mailto:rohitjain19060@gmail.com?subject=Hi%20from%HTML5 "Hi!")
+- [Email](mailto:rohitjain19060@gmail.com?subject=Hi%20from%20HTML5 "Hi!")
 - [Website](https://kingtechnologies.in "Welcome")
 
 ## 🤝 Support
