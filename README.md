@@ -1,6 +1,6 @@
-<h1 style="text-align:center;">HTML5 - First Step Towards Web Development</h1>
+<h1 align="center">HTML5 - First Step Towards Web Development</h1>
 
-<p style="text-align:center;">Repo for <a style="text-decoration:none;" href="https://youtu.be/JHv2jmnrLlA" title="HTML5 - Tutorial">YouTube</a> Video</p>
+<p align="center">Repo for <a style="text-decoration:none;" href="https://youtu.be/JHv2jmnrLlA" title="HTML5 - Tutorial">YouTube</a> Video</p>
 
 ## Links
 
